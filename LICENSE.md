@@ -30,5 +30,10 @@ This license have the legal benefits.
 ## Profit
 * This resource is NON-PROFIT, but donating is required to continue this project.
 * We hope you can donate us.
-  
+
+## Donate
+It's not possible to get milk if you not feed your cow, please donate me for a cup of Starbucks!  
+Since this is a non-profit project, to keep me continue doing this, please donate, thanks!    
+[PayPal](https://paypal.me/bn9)  
+
 Copyright 2017 by BeckNo9 <bn9.in>

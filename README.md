@@ -22,5 +22,9 @@ If you want to know more, maybe you should read [Full Introduce](intro.md).
 Month / Year  
 Aug / 2020
 
+## Donate
+It's not possible to get milk if you not feed your cow, please donate me for a cup of Starbucks!  
+Since this is a non-profit project, to keep me continue doing this, please donate, thanks!    
+[PayPal](https://paypal.me/bn9)  
 
  By BeckNo9
